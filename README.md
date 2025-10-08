@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://avbc.dev/" target="_blank">
     <img src="https://cdn.avbc.codes/v1/Content/images/sites/sharpnex/portfolio/anderson/anderson-banner.svg" width="800" alt="Anderson Costa ∴">
-  </a>
+  </a> 
 </p>
 
 ### Olá! 👋 Eu sou o Anderson.
