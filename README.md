@@ -142,5 +142,4 @@ Gostou do meu trabalho ou dos meus projetos free? Considere me apoiar! Sua contr
 <p>
   <a href="https://go.avbc.dev/i9HwDKlQ" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <a href="https://go.avbc.dev/8VLnyhHA" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
-  <a href="https://go.avbc.me/fIYqVEbt" target="_blank"><img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance"></a>
 </p>
