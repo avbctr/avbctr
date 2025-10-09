@@ -140,6 +140,9 @@ My goal is to build **secure, reliable, and sustainable** solutions that bridge 
     <a href="https://hotmart.com/pt-br/marketplace/produtos/criando-apis-escalaveis-em-dotnet" target="_blank">
       <img src="https://img.shields.io/badge/Hotmart%20%2F%20PDF-F73C00?style=for-the-badge&logo=hotmart&logoColor=white" alt="Hotmart">
     </a>
+    <a href="https://leanpub.com/scalable-apis-dotnet" target="_blank">
+    <img src="https://img.shields.io/badge/Leanpub%20%2F%20EPUB-323339?style=for-the-badge&logo=leanpub&logoColor=white" alt="Leanpub">
+  </a>
   </p>
 
   <blockquote>
