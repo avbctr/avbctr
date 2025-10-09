@@ -41,7 +41,7 @@ My goal is to build **secure, reliable, and sustainable** solutions that bridge 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET%20/%20.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET / .NET Core"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Visual%20Basic-945DB7?style=for-the-badge" alt="Visual Basic"/>
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
 </p>
 
 ---
