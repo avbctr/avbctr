@@ -6,7 +6,7 @@
 
 ### Olá! 👋 Eu sou o Anderson.
 
-Sou um **Arquiteto de Software** e **Consultor Sênior .NET** com quase 20 anos de experiência, especializado em projetar, desenvolver e integrar sistemas corporativos de alta complexidade.  
+Sou um **Arquiteto de Software**, **Tech Lead** e **Consultor Sênior .NET** com quase 20 anos de experiência, especializado em projetar, desenvolver e integrar sistemas corporativos de alta complexidade.  
 Minha atuação é guiada pela **inovação, escalabilidade e excelência técnica**, com foco em **arquitetura de microsserviços, automação de processos, soluções SaaS e integrações de ERPs**.
 
 Tenho ampla experiência em **.NET, C#, bancos de dados e middleware**, participando ativamente de projetos de **modernização de sistemas legados** e **transformação digital**.  
@@ -17,7 +17,7 @@ Meu propósito é criar soluções **seguras, confiáveis e sustentáveis**, que
 <details>
   <summary>🇺🇸 Read in English</summary>
 
-I am a **Software Architect** and **Senior .NET Consultant** with nearly 20 years of experience designing, developing, and integrating mission-critical enterprise systems.  
+I am a **Software Architect**, **Tech Lead** and **Senior .NET Consultant** with nearly 20 years of experience designing, developing, and integrating mission-critical enterprise systems.  
 My work is driven by **innovation, scalability, and technical excellence**, focusing on **microservices architecture, process automation, SaaS platforms, and ERP integrations**.
 
 I have extensive experience in **.NET, C#, databases, and middleware**, contributing to large-scale **system modernization** and **digital transformation** initiatives.  
@@ -79,6 +79,15 @@ My goal is to build **secure, reliable, and sustainable** solutions that bridge 
 
 ---
 
+### 🎨 Frontend & Experiência do Usuário
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+---
+
 ### 🌐 Marketing Digital & Ferramentas Analíticas
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads"/>
@@ -106,7 +115,7 @@ My goal is to build **secure, reliable, and sustainable** solutions that bridge 
   <summary><strong>📖 Criando APIs Escaláveis em .NET Core (Concluído)</strong></summary>
   <br>
   <p>
-    Guia prático e completo para desenvolvedores que desejam dominar a arte de construir **APIs robustas, escaláveis e profissionais usando .NET**.  
+    Guia prático e completo para desenvolvedores que desejam dominar a arte de construir <strong>APIs robustas, escaláveis e profissionais usando .NET</strong>  
     O conteúdo abrange desde os fundamentos até tópicos avançados como:
   </p>
 
@@ -132,7 +141,67 @@ My goal is to build **secure, reliable, and sustainable** solutions that bridge 
       <img src="https://img.shields.io/badge/Hotmart%20%2F%20PDF-F73C00?style=for-the-badge&logo=hotmart&logoColor=white" alt="Hotmart">
     </a>
   </p>
+
+  <blockquote>
+    💡 <strong>Próximo passo:</strong> Este e-book é a base para o próximo volume em desenvolvimento:<br>
+    <strong>“Integrando IA com Segurança em .NET: Semantic Kernel, Microsoft.Extensions.AI e Arquiteturas Confiáveis”</strong>.<br>
+    Nele, você aprenderá a conectar modelos de IA a sistemas corporativos <em>sem comprometer segurança, privacidade ou estabilidade</em>.
+  </blockquote>
 </details>
+
+---
+
+### 🔒 Projetos Privados (Empresas)
+
+Abaixo, destaco iniciativas estratégicas desenvolvidas em ambientes corporativos fechados, onde atuei como **Tech Lead** e **Arquiteto de Soluções**, com foco em **integração, escalabilidade e transformação digital**.
+
+#### **S2 Holding S.A.** *(2021–2025)*
+- **Portal Comercial** – Plataforma centralizada para clientes e representantes, construída com **arquitetura de microsserviços** e APIs robustas, melhorando a experiência do usuário e a eficiência operacional.
+- **Sistema de Gestão Orçamentária** – Solução crítica para planejamento financeiro e controle de custos, integrada a soluções internas corporativas.
+- **Ferramenta de Performance RH** – Dashboard de acompanhamento de engajamento, com indicadores estratégicos para gestão de pessoas.
+- **Integração Logística com Transportadoras** – Conexão em tempo real com **Braspress** e **Solistica** para rastreamento de entregas e otimização da cadeia de suprimentos.
+- **Integrações Estratégicas** – Conexão entre sistemas legados, TOTVS, Safetech e plataformas internas, garantindo interoperabilidade e automação de processos fiscais, comerciais e logísticos.
+
+#### **Cereais Bramil (Grupo Mil)** *(2009–2021)*
+- **Middleware Corporativo** – Camada de integração entre ERPs (Microsiga, Zanthus, Sitef) e sistemas internos, automatizando inventário, transferências e processos fiscais.
+- **Portal de Serviços Internos** – Plataforma migrada de ASP.NET para .NET Core, centralizando acesso a ferramentas operacionais para colaboradores.
+- **Gestão Centralizada de Certificados Digitais** – Sistema seguro para controle de acesso, validade e uso de certificados A1/A3, limitando exposição e mitigando riscos.
+- **Repositório de Documentos Fiscais** – Solução para armazenamento, distribuição e conformidade de XMLs de NF-e, CT-e e outros documentos fiscais, integrada a sistemas como Protheus e Alterdata.
+
+> 💡 *Esses projetos foram desenvolvidos sob NDA (Non-Disclosure Agreement) ou em ambientes internos. Detalhes técnicos completos não são públicos, mas refletem minha expertise em arquitetura, integração e entrega de valor em contextos empresariais complexos.*
+
+---
+
+### 🌐 Meus Projetos Públicos
+
+Aqui estão alguns dos meus projetos, blogs e ferramentas disponíveis publicamente na internet. Cada um reflete minha filosofia de **qualidade, utilidade e elegância técnica**.
+
+| Projeto | Status | Acesso |
+|--------|--------|--------|
+| **🔗 go.avbc.dev** – Redirecionador de URLs pessoal | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square&logo=link&logoColor=white) | [go.avbc.dev](https://go.avbc.dev) |
+| **✍️ Blog** – Artigos sobre tecnologia, arquitetura e reflexões | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square) | [blog.avbc.me](https://blog.avbc.me) |
+| **📱 Smart Bio** – Bio inteligente para redes sociais | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square) | [smartbio.tarsilasilva.com.br](https://smartbio.tarsilasilva.com.br) |
+| **👩‍⚕️ Site de Tricologia** – Portal profissional de saúde capilar | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square) | [tarsilasilva.com.br](https://tarsilasilva.com.br) |
+| **📘 Blog de Tricologia** – Conteúdo educativo sobre cabelos e couro cabeludo | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square) | [tarsilasilva.com.br/blog](https://tarsilasilva.com.br/blog) |
+| **📚 Guia de Shampoos** – E-book profissional sobre cuidados capilares | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square) | [tarsilasilva.com.br/Ebooks/guia-shampoos-condicionadores](https://tarsilasilva.com.br/Ebooks/guia-shampoos-condicionadores) |
+| **🏥 SISA** – Sistema Simplificado de Saúde (agiliza rotina de profissionais e integra com Receita Saúde) | ![15%](https://img.shields.io/badge/15%25-FFA500?style=flat-square) | [sisa.ia.br](http://sisa.ia.br/) |
+| **🧾 NFESG** – Repositório seguro de Notas Fiscais Eletrônicas e obrigações fiscais | ![10%](https://img.shields.io/badge/10%25-FF6347?style=flat-square) | [nfesg.com.br](https://nfesg.com.br/) |
+| **🧪 App TrichoClinics** – SaaS especializado para clínicas de tricologia e terapia capilar | ![10%](https://img.shields.io/badge/10%25-FF6347?style=flat-square) | [app.trichoclinics.com](https://app.trichoclinics.com/) |
+| **🔬 Blog TrichoClinics** – Blog especializado em tricologia e saúde capilar | ![45%](https://img.shields.io/badge/45%25-FFA500?style=flat-square) | [trichoclinics.com/Blog](https://trichoclinics.com/Blog) |
+| **🚀 Landing TrichoClinics** – Apresentação dos serviços do SaaS de tricologia | ![10%](https://img.shields.io/badge/10%25-FF6347?style=flat-square) | [trichoclinics.com](https://trichoclinics.com/) |
+| **🚌 Viação Cedro** – Sistema de gestão para transporte rodoviário *(em desenvolvimento)* | ![28%](https://img.shields.io/badge/28%25-FFA500?style=flat-square) | [viacaocedro.web21f113.uni5.net](http://viacaocedro.web21f113.uni5.net/) |
+| **📂 Repositório SharpNex Solutions** – Exemplos e soluções open-source em .NET e arquitetura | ![100%](https://img.shields.io/badge/100%25-2E8B57?style=flat-square&logo=github&logoColor=white) | [github.com/sharpnexsolutions](https://github.com/sharpnexsolutions) |
+
+> 💡 *As porcentagens refletem o grau de maturidade, documentação e estabilidade do projeto — não necessariamente "conclusão".*
+
+---
+
+### 🔗 Meu Encurtador de Links
+
+Uso meu próprio encurtador **[Short Link](https://avbc.me)** para:
+- Compartilhar links de forma limpa e memorável
+
+É um projeto simples, mas **totalmente funcional e em uso diário** — um exemplo de "ferramenta para si mesmo" feita com propósito.
 
 ---
 ### ❤️ Apoie Meu Trabalho
@@ -142,4 +211,7 @@ Gostou do meu trabalho ou dos meus projetos free? Considere me apoiar! Sua contr
 <p>
   <a href="https://go.avbc.dev/i9HwDKlQ" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
   <a href="https://go.avbc.dev/8VLnyhHA" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="https://avbc.dev/fIYqVEbt" target="_blank">
+    <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black" alt="Binance">
+  </a>
 </p>
