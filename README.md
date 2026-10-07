@@ -23,6 +23,10 @@ Sou **Arquiteto de Software &amp; AI Engineer** com quase 20 anos no ecossistema
 
 Atuo na fronteira entre **engenharia sólida** e **inteligência artificial**: projeto arquiteturas de microsserviços, integro ERPs e sistemas legados e, hoje, conduzo a preparação de plataformas para se tornarem **AI-native**, expondo capacidades via **MCP (Model Context Protocol)** para agentes de IA e definindo padrões de arquitetura, observabilidade e governança de APIs.
 
+Hoje atuo em duas frentes: na **GEP**, conduzo a migração para **.NET 10**, um novo modelo de autenticação com **refresh token rotativo** e a execução de **sub-agentes paralelos com telemetria**; na **CH Master Data**, lidero a squad de customização e a **governança de CI/CD e de código**.
+
+Trabalho com a decisão antes do código: diagnostico antes de mexer, registro decisões em ADRs e RFCs, transformo padrão em regra de build e de pipeline e entrego em mudanças pequenas e rastreáveis, usando agentes de IA de código sob a minha revisão.
+
 Autodidata orgulhoso e autor técnico, movido por **inovação, confiabilidade e excelência técnica**, com o propósito de conectar **tecnologia e estratégia de negócio**.
 
 <details>
@@ -31,6 +35,10 @@ Autodidata orgulhoso e autor técnico, movido por **inovação, confiabilidade e
 I'm a **Software Architect &amp; AI Engineer** with nearly 20 years in the **.NET** ecosystem, specialized in turning complex enterprise systems into **scalable, secure and AI-ready platforms**.
 
 I work at the intersection of **solid engineering** and **artificial intelligence**: designing microservices architectures, integrating ERPs and legacy systems, and currently leading the **AI-readiness** of platforms, exposing capabilities via **MCP (Model Context Protocol)** to AI agents and setting standards for architecture, observability and API governance.
+
+Today I work on two fronts: at **GEP**, I drive the move to **.NET 10**, a new authentication model with **rotating refresh tokens** and **parallel sub-agent execution with telemetry**; at **CH Master Data**, I lead the customization squad and **CI/CD and code governance**.
+
+I work decision first: diagnose before changing anything, record decisions in ADRs and RFCs, turn standards into build and pipeline rules, and deliver in small, traceable changes, using AI coding agents under my review.
 
 A proud self-taught engineer and technical author, driven by **innovation, reliability and technical excellence**, with the goal of bridging **technology and business strategy**.
 </details>
@@ -41,6 +49,7 @@ A proud self-taught engineer and technical author, driven by **innovation, relia
 
 - **IA no ecossistema Microsoft/.NET:** MCP, agentes, Semantic Kernel, Microsoft.Extensions.AI, RAG e arquitetura **AI-native**.
 - **AI-readiness de plataformas:** exposição de capacidades via MCP para agentes e um **AI-Ready Architecture Framework** em produção.
+- **Engenharia de plataforma em produção:** migração para **.NET 10**, autenticação com **refresh token rotativo**, **sub-agentes paralelos com telemetria** e **governança de CI/CD e de código** (analisadores que quebram o build, esteira com teste obrigatório e aprovação independente).
 - **Sharpnex Solutions:** minha consultoria em IA, Cloud &amp; Automação, com e-books técnicos e o **Sharpnex Journal**.
 - **TrichoClinics:** um **SaaS AI-native** para tricologia (diagnóstico assistido por IA, protocolos e rede), nascido para um nicho de saúde e arquitetado para escalar.
 
@@ -64,6 +73,7 @@ A proud self-taught engineer and technical author, driven by **innovation, relia
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET%20%2F%20.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-68217A?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
 </p>
@@ -87,6 +97,8 @@ A proud self-taught engineer and technical author, driven by **innovation, relia
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="SonarCloud"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 
 **🧭 Liderança &amp; Estratégia**
@@ -112,6 +124,12 @@ A proud self-taught engineer and technical author, driven by **innovation, relia
 ### 🔒 Projetos corporativos (sob confidencialidade)
 
 Iniciativas estratégicas onde atuei como **Tech Lead** e **Arquiteto de Soluções**. Descrevo a atuação de forma ampla e técnica, sem expor detalhes internos das empresas.
+
+**GEP** *(2026 até o momento)*
+- Software Lead da plataforma CostDrivers: plataforma de IA multiagente (streaming SSE, sub-agentes paralelos, loop MCP com human-in-the-loop), MCP Server zero-trust, RAG com limite de custo por tokens, migração para .NET 10, novo modelo de autenticação e padrões de engenharia como regra de build.
+
+**CH Master Data** *(2025 até o momento)*
+- Líder da squad de customização (6 pessoas, 16 clientes corporativos) de uma plataforma de governança de dados mestres: integrações REST e OData V4 com ERPs, esteira de CI/CD do produto legado com teste obrigatório e aprovação independente, e fluxo de engenharia padronizado.
 
 **S2 Holding S.A.** *(2021 a 2025)*
 - **Portal Comercial B2B** em arquitetura de microsserviços e APIs, para clientes e representantes.
